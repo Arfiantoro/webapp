@@ -1,0 +1,14 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 11, 2018, 10:10:41 AM
+    Author     : 
+*/
+
+.input-group-lg > .input-group-addon, .input-group-lg > .form-control, .input-group-lg > .input-group-addon, .input-group-lg > .input-group-btn > .btn{
+    height: 40px !important;
+    padding: 6px 12px !important;
+}
